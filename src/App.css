@@ -1,0 +1,109 @@
+.heading {
+    color: black;
+    text-align: left;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 48px;
+}
+html, body {
+    background-color: whitesmoke;
+    justify-content: center;
+    display: flex;
+    min-height: 100vh;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    align-items: flex-start;
+    height: 20000px;
+}
+.overall {
+    margin: 40px;
+    padding: 20px;
+    height: 100vh;
+    box-sizing: border-box;
+    max-width: 1200px;
+    max-height:7000px;
+}
+.blockbox {
+    width: 1200px;
+    justify-content: baseline;
+    display: flex;
+    background-color: rosybrown;
+    line-height: 80px;
+   
+}
+.st {
+    color: black;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 600;
+    font-size: 28px;
+}
+.tr {
+    color: darkblue;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 28px;
+    background-color: yellowgreen;
+    text-align: start;
+}
+.ohh {
+    background-color: aqua;
+    width: 1200px;
+    
+}
+.ol {
+    color: blueviolet;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+}
+.about {
+    color: black;
+    text-align: left;
+}
+.mainn p {
+    color: yellowgreen;
+    text-align: right;
+}
+.so {
+    color: red;
+    font-size: 35px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+.yu {
+    color: blue;
+    font-family: 'Times New Roman', Times, serif;
+}
+.con {
+    text-align: right;
+}
+.over {
+    padding: 20px;
+}
+.content {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+.leftside {
+ width: 300px;
+ height: auto;
+}
+.video {
+    width: 600px;
+}
+.yyy {
+    text-align: start;
+    font-size: 48px;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+}
+.uuu {
+    text-align: start;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+}
+h1 {
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+}
